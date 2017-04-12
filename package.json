@@ -99,7 +99,7 @@
     "webpack": "~2.2.0",
     "webpack-dev-server": "~2.3.0",
     "webpack-merge": "^2.4.0",
-    "zone.js": "^0.8.4"
+    "zone.js": "^0.7.2"
   },
   "ember-addon": {
     "paths": [
@@ -107,9 +107,9 @@
     ]
   },
   "devDependencies": {
-    "@angular/compiler": "^4.0.0-rc.5",
-    "@angular/compiler-cli": "^4.0.0-rc.5",
-    "@angular/core": "^4.0.0-rc.5",
+    "@angular/compiler": "2.4.10",
+    "@angular/compiler-cli": "2.4.10",
+    "@angular/core": "2.4.10",
     "@types/chai": "^3.4.32",
     "@types/chalk": "^0.4.28",
     "@types/common-tags": "^1.2.4",
